@@ -34,7 +34,7 @@
 ## 💻 Recent Work  
 
 **Quak Travel – Software Engineer** *(Mar 2025 → Now)*  
-- Helped design booking, split-payments, and trip planning features in Express + Prisma + TS.  
+- Helped design booking, split-payments, and trip planning features with Express + Prisma + TS.  
 - Rolling out a frontend redesign with React + Tailwind + Material UI
 - Redis caching boosted hotel search speed by **~80%**.  
 - Part of the demo of our app and website helped land **$30K in funding**, giving us room to grow the team and bring in new technologies🙌  

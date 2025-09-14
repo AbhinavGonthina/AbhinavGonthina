@@ -14,13 +14,13 @@
 ---
 
 ## 📚 What I'm Learning/Refining My Skills In
-- 🎨 **Framer Motion** – for smoother React animations  
+- 🎞️ **Framer Motion** – for smoother React animations  
 - ⚛️ **Next.js** – full-stack React framework with SSR/SSG  
-- 🔣 **C** – getting closer to systems programming  
-- 🌐 **Flask** – lightweight Python web framework  
+- ©️ **C** – getting closer to systems programming  
+- ⚗️ **Flask** – lightweight Python web framework  
 - ☕ **Spring Boot** – production-ready Java APIs  
 - 🍃 **MongoDB** – NoSQL data modeling and scaling  
-- 🎀 **Bootstrap** – quick styling + component library
+- 🅱️ **Bootstrap** – quick styling + component library
 
 ---
 

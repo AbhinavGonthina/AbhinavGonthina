@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 What I’m Learning Next  
+## 📚 What I'm Learning/Refining My Skills In
 - 🎨 **Framer Motion** – for smoother React animations  
 - ⚛️ **Next.js** – full-stack React framework with SSR/SSG  
 - 🔣 **C** – getting closer to systems programming  

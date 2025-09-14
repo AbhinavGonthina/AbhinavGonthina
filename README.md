@@ -4,12 +4,23 @@
 
 ---
 
-## Technologies & Tools
+## 🧑‍💻 Technologies & Tools
 * 💻 Languages: TypeScript/JavaScript, Java, Python, SQL, R, HTML, CSS.
 * ⚡ Frameworks/Tools: React, Node.js/Express.js, Prisma, Tailwind CSS, Material UI.
 * 🛠️ Tools & Platforms: Git, Docker, Figma, GitHub Desktop.
 * 🖥️ Development Environments: Visual Studio Code, IntelliJ IDEA, Eclipse, R Studio, Pycharm Professional.
 * 🪟 OS: Windows 10/11, Linux (Ubuntu).
+
+---
+
+## 📚 What I’m Learning Next  
+- 🎨 **Framer Motion** – for smoother React animations  
+- ⚛️ **Next.js** – full-stack React framework with SSR/SSG  
+- 🔣 **C** – getting closer to systems programming  
+- 🌐 **Flask** – lightweight Python web framework  
+- ☕ **Spring Boot** – production-ready Java APIs  
+- 🍃 **MongoDB** – NoSQL data modeling and scaling  
+- 🎀 **Bootstrap** – quick styling + component library
 
 ---
 

@@ -1,6 +1,6 @@
 ## Hello!👋 My name is Abhinav.
 
-### I am a Computer Science Student at Northeastern University with a passion for making impactful projects using web development technologies! My experience is diverse, ranging from fast paced startup initiatives to collaborative coding clubs on campus. In this repo, you can find some of the projects I've worked on in the past in addition to some of my more current endeavors!
+### I am a Computer Science Student at Northeastern University with a passion for making impactful projects using web development technologies! My experience is diverse, ranging from fast paced startup initiatives to collaborative coding clubs on campus. In this repo, you can learn about me, including my skills, my current endeavors, and some of the projects I've worked or am working on!
 
 ---
 

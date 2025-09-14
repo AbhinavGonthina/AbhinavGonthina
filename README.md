@@ -54,12 +54,15 @@
 
 ---
 
-## 🚀 Side Projects  
+## 🚀 Projects  
+
 - **CoDesign:** Social platform built with React + Tailwind (posts, messaging, matchmaking). Demoed at Northeastern’s Oasis Day to 100+ people.  
 - **RoadQuest:** HackBeanpot project → real-time quest generator + auth + leaderboards in React.  
 - **FinishLine (NER):** Ticket & compliance system with parts overview + notification features. Now creating a pdf parsing system for racing members to better understanding competition standards.
 - **MacroManage (Upcoming):** AI-powered meal planning tool that scrapes nutrition data and prices to suggest balanced, customizable diets, and buyable diets.  
 - **Noteification (Upcoming):** A study planner app that helps organize notes, tasks, and deadlines into one streamlined workspace.
+
+Some of these projects can be found in the pinned repos below this README.
 
 ---
 

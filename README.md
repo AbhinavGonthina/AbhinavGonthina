@@ -60,7 +60,7 @@
 - **FinishLine (NER):** Ticket & compliance system with parts overview + notification features. Now creating a pdf parsing system for racing members to better understanding competition standards.
 - **MacroManage (Upcoming):** AI-powered meal planning tool that scrapes nutrition data and prices to suggest balanced, customizable diets, and buyable diets.  
 - **Noteification (Upcoming):** A study planner app that helps organize notes, tasks, and deadlines into one streamlined workspace.
-- 
+
 ---
 
 ## 📬 Reach Me Here  

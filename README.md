@@ -60,7 +60,8 @@
 - **RoadQuest 🗺️:** HackBeanpot project → real-time quest generator + auth + leaderboards in React.  
 - **FinishLine (NER) 🏁:** Ticket & compliance system with parts overview + notification features. Now creating a pdf parsing system for racing members to better understanding competition standards.  
 - **MacroManage 🍲 (Upcoming):** AI-powered meal planning tool that scrapes nutrition data and prices to suggest balanced, customizable diets, and buyable diets.  
-- **Noteification 📚 (Upcoming):** A study planner app that helps organize notes, tasks, and deadlines into one streamlined workspace.  
+- **Noteification 📚 (Upcoming):** A study planner app that helps organize notes, tasks, and deadlines into one streamlined workspace.
+- **Personal Portfolio 🖥️ :** A website to showcase my skills, experiences, and projects. 
 
 Some of these projects can be found in the pinned repos below this README.  
 

@@ -1,74 +1,102 @@
-## Hello!👋 My name is Abhinav.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4FD1C5&height=200&section=header&text=Abhinav%20Gonthina&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=CS%20%40%20Northeastern%20%C2%B7%204.0%20GPA%20%C2%B7%20Honors&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
 
-### I am a Computer Science Student at Northeastern University with a passion for making impactful projects using web development technologies! My experience is diverse, ranging from fast paced startup initiatives to collaborative coding clubs on campus. In this repo, you can learn about me, including my skills, my current endeavors, and some of the projects I've worked or am working on!
+<p align="center">
+  <a href="https://abhinavgonthina.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=4FD1C5&center=true&vCenter=true&width=640&lines=Full-stack+engineer;Ex-Athenahealth+%C2%B7+Philips+%C2%B7+Quak+Travel;Seeking+full-time+SWE+roles+after+April+2027" alt="typing intro" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://abhinavgonthina.dev"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/abhinavgonthina"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:gonthina.a@northeastern.edu"><b>✉️ Email</b></a>
+</p>
 
-## 🧑‍💻 Technologies & Tools
-* 💻 Languages: TypeScript/JavaScript, Java, Python, SQL, R, HTML, CSS.
-* ⚡ Frameworks/Tools: React, Node.js/Express.js, Prisma, Tailwind CSS, Material UI.
-* 🛠️ Tools & Platforms: Git, Docker, Figma, GitHub Desktop.
-* 🖥️ Development Environments: Visual Studio Code, IntelliJ IDEA, Eclipse, R Studio, Pycharm Professional.
-* 🪟 OS: Windows 10/11, Linux (Ubuntu).
+<br/>
 
----
+> I care about building systems that balance **innovation** with **resilience**. I like getting something real out early, but then will circle back to it until I'm genuinely proud of how it works and its fault tolerance.
 
-## 📚 What I'm Learning/Refining My Skills In
-- 🎞️ **Framer Motion** – for smoother React animations  
-- ⚛️ **Next.js** – full-stack React framework with SSR/SSG  
-- ©️ **C** – getting closer to systems programming  
-- ⚗️ **Flask** – lightweight Python web framework  
-- ☕ **Spring Boot** – production-ready Java APIs  
-- 🍃 **MongoDB** – NoSQL data modeling and scaling  
-- 🅱️ **Bootstrap** – quick styling + component library
+<br/>
 
----
+## ⚡ Where I've Been
 
-## 🌱 What I’m Into  
-- Using code 💻 to **solve real problems** and not just classroom exercises — I like when something I build ends up being useful for others.  
-- Shipping projects 🚀 that **people actually use**, whether it’s a startup demo, a hackathon prototype, or a tool for my club.  
-- Teaching & mentoring 🎓 — I enjoy breaking down tough CS concepts into simpler pieces, whether it’s through recitations, office hours, or just helping a friend debug.  
+|     | Role                                                 | What I worked on                                                                                                                                                     |
+| :-: | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏥  | **Athenahealth** · SWE Intern · _Summer '26_         | Worked on cloud infrastructure: set up **autoscaling** for our services, built an internal **data store app**, and put together the team's **monitoring dashboard**. |
+| 🩺  | **Philips** · SWE Co-op · _Spring '26_               | Built features for a **medical device simulator** and UI for the **PIC iX** patient monitoring platform, and hunted down bugs across the stack.                      |
+| ✈️  | **Quak Travel** · SWE Intern · _'25 – '26_           | Early engineer at a travel startup. I built **group hotel booking** with split payments and the **mobile itinerary and expense** views, and sped up the backend.     |
+| 🏎️  | **Northeastern Electric Racing** · SWE · _'25 – '26_ | Worked on **FinishLine**, the team's project tracker, adding UI features and a **rules PDF parser**.                                                                 |
+| 🌧️  | **Rainfall Learning** · Tech Lead · _Summer '25_     | Led the **payments team** for a tutoring platform, building out Stripe checkout and tutor payouts.                                                                   |
 
----
+<br/>
 
-## 💻 Recent Work  
+## 🧰 Stuff I've Worked With
 
-**Quak Travel – Software Engineer ✈️** *(Mar 2025 → Now)*  
-- Helped design booking, split-payments, and trip planning features with Express + Prisma + TS.  
-- Rolling out a frontend redesign with React + Tailwind + Material UI.  
-- Redis caching boosted hotel search speed by **~80%**.  
-- A demo of our app and website helped land **$30K in funding**, giving us room to grow the team and bring in new technologies.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,react,nextjs,nodejs,express,spring,dotnet,prisma&perline=12&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,aws,terraform,docker,kubernetes,jenkins,grafana,prometheus,tailwind,jest,git&perline=12&theme=dark" />
+</p>
 
-**Rainfall Learning – Tech Lead 🌧️** *(Jun 2025 → Now)*  
-- Keeping 20+ devs/designers organized across curriculum, scheduling, and platform work.  
-- Leading a 4-person sub-team to wire up Stripe payments (onboarding + financial analytics).  
-- Building APIs to track transactions & tutor earnings.  
+<br/>
 
-**Teaching Assistant – Discrete Structures @ Northeastern 📈** *(Aug 2025 → Now)*  
-- Working with **500+ students** on graph theory, proofs, combinatorics, and logic.  
-- Running weekly recitations (~30 students each), hosting office hours, and giving assignment feedback.  
+## 🚀 Things I've Made
 
-**NER (Northeastern Electric Racing) – Software Engineer 🏎️** *(Jan 2025 → Now)*  
-- Built React + Material UI components for our FinishLine rules tracker → better ticket visibility.  
-- Adding backend routes/hooks in Express + Prisma for a rules (pdf) parsing system.  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://ontrack.abhinavgonthina.dev">OnTrack</a></h3>
+      <sub><code>Next.js</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Gemini</code></sub>
+      <p>A job tracker that turns your whole interview pipeline into a <b>Sankey diagram</b>. It also scores your resume against a job description with AI and enforces three tiers of rate limiting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 CoDesign</h3>
+      <sub><code>React</code> <code>Tailwind</code></sub>
+      <p>A social platform for designers and developers with posts, messaging, and matchmaking. Demoed to <b>100+ people</b> at Northeastern's Oasis Day.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ RoadQuest</h3>
+      <sub><code>React</code> <code>HackBeanpot</code></sub>
+      <p>A hackathon build that generates real-time quests, with auth and live leaderboards.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏁 FinishLine</h3>
+      <sub><code>React</code> <code>Express</code> <code>Prisma</code></sub>
+      <p>NER's ticket and compliance system, which I extended with notifications and a PDF rules parser.</p>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🚀 Projects  
+## 🧠 What I'm Into
 
-- **CoDesign 🤝:** Social platform built with React + Tailwind (posts, messaging, matchmaking). Demoed at Northeastern’s Oasis Day to 100+ people.  
-- **RoadQuest 🗺️:** HackBeanpot project → real-time quest generator + auth + leaderboards in React.  
-- **FinishLine (NER) 🏁:** Ticket & compliance system with parts overview + notification features. Now creating a pdf parsing system for racing members to better understanding competition standards.  
-- **MacroManage 🍲 (Upcoming):** AI-powered meal planning tool that scrapes nutrition data and prices to suggest balanced, customizable diets, and buyable diets.  
-- **Noteification 📚 (Upcoming):** A study planner app that helps organize notes, tasks, and deadlines into one streamlined workspace.
-- **Personal Portfolio 🖥️ :** A website to showcase my skills, experiences, and projects. 
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🏗️</h3>
+      <b>System Design</b>
+      <p><sub>Seeing how every piece fits at a high level is how I know the whole thing actually works.</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>✨</h3>
+      <b>Features People Thank You For</b>
+      <p><sub>The intricate, detail-heavy work that makes someone's day noticeably easier.</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🎓</h3>
+      <b>Breaking It Down</b>
+      <p><sub>Turning complex ideas into simple ones, whether for a teammate, a team I'm leading, or a student.</sub></p>
+    </td>
+  </tr>
+</table>
 
-Some of these projects can be found in the pinned repos below this README.  
-
----
-
-## 📬 Reach Me Here  
-- **GitHub: 🔨** [github.com/AbhinavGonthina](https://github.com/AbhinavGonthina)  
-- **LinkedIn 👨‍💼:** [linkedin.com/in/abhinavgonthina](https://linkedin.com/in/abhinavgonthina) 
-- **Email ✉️:** gonthina.a@northeastern.edu
-
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
+</p>

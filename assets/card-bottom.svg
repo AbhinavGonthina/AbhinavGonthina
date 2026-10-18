@@ -54,7 +54,7 @@
 <text x="600" y="412" text-anchor="middle" class="label">HOW I WORK</text>
 <text x="600" y="464" text-anchor="middle" class="lead">I care about building systems that balance <tspan class="hl">innovation</tspan> with <tspan class="hl">resilience</tspan>.</text>
 <text x="600" y="504" text-anchor="middle" class="p" font-size="19">I like getting something real out early, but then will circle back to it</text>
-<text x="600" y="531" text-anchor="middle" class="p" font-size="19">until I&#x27;m genuinely proud of how it works and its fault tolerance.</text>
+<text x="600" y="531" text-anchor="middle" class="p" font-size="19">until I&#x27;m genuinely proud of how it works and how solid it is.</text>
 <rect x="70" y="591" width="5" height="30" rx="2.5" fill="url(#vaccent)"/>
 <text x="88" y="617" class="h2">Where I&#x27;ve Been</text>
 <line x1="321.03999999999996" y1="607" x2="1130" y2="607" class="rule"/>

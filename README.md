@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4FD1C5&height=200&section=header&text=Abhinav%20Gonthina&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=CS%20%40%20Northeastern%20%C2%B7%204.0%20GPA%20%C2%B7%20Honors&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Abhinav Gonthina" />
 </p>
 
 <p align="center">
   <a href="https://abhinavgonthina.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=4FD1C5&center=true&vCenter=true&width=640&lines=Full-stack+engineer;Ex-Athenahealth+%C2%B7+Philips+%C2%B7+Quak+Travel;Seeking+full-time+SWE+roles+after+April+2027" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=900&color=4FD1C5&center=true&vCenter=true&width=640&lines=Full-stack+engineer;Ex-Athenahealth+%C2%B7+Philips+%C2%B7+Quak+Travel;Seeking+full-time+SWE+roles+after+April+2027" alt="typing intro" />
   </a>
 </p>
 
@@ -21,7 +21,12 @@
 
 <br/>
 
-## ⚡ Where I've Been
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-where-dark.svg" />
+    <img src="assets/h-where-light.svg" height="40" alt="Where I've Been" />
+  </picture>
+</h2>
 
 |     | Role                                                 | What I worked on                                                                                                                                                     |
 | :-: | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +38,12 @@
 
 <br/>
 
-## 🧰 Stuff I've Worked With
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg" />
+    <img src="assets/h-stack-light.svg" height="40" alt="Stuff I've Worked With" />
+  </picture>
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,react,nextjs,nodejs,express,spring,dotnet,prisma&perline=12&theme=dark" />
@@ -43,60 +53,77 @@
 
 <br/>
 
-## 🚀 Things I've Made
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-made-dark.svg" />
+    <img src="assets/h-made-light.svg" height="40" alt="Things I've Made" />
+  </picture>
+</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle" align="center">
       <h3>📊 <a href="https://ontrack.abhinavgonthina.dev">OnTrack</a></h3>
       <sub><code>Next.js</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Gemini</code></sub>
       <p>A job tracker that turns your whole interview pipeline into a <b>Sankey diagram</b>. It also scores your resume against a job description with AI and enforces three tiers of rate limiting.</p>
+      <br/>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle" align="center">
       <h3>🤝 CoDesign</h3>
       <sub><code>React</code> <code>Tailwind</code></sub>
       <p>A social platform for designers and developers with posts, messaging, and matchmaking. Demoed to <b>100+ people</b> at Northeastern's Oasis Day.</p>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle" align="center">
       <h3>🗺️ RoadQuest</h3>
       <sub><code>React</code> <code>HackBeanpot</code></sub>
       <p>A hackathon build that generates real-time quests, with auth and live leaderboards.</p>
+      <br/>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle" align="center">
       <h3>🏁 FinishLine</h3>
       <sub><code>React</code> <code>Express</code> <code>Prisma</code></sub>
       <p>NER's ticket and compliance system, which I extended with notifications and a PDF rules parser.</p>
+      <br/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🧠 What I'm Into
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-into-dark.svg" />
+    <img src="assets/h-into-light.svg" height="40" alt="What I'm Into" />
+  </picture>
+</h2>
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h3>🏗️</h3>
       <b>System Design</b>
       <p><sub>Seeing how every piece fits at a high level is how I know the whole thing actually works.</sub></p>
+      <br/>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h3>✨</h3>
       <b>Features People Thank You For</b>
       <p><sub>The intricate, detail-heavy work that makes someone's day noticeably easier.</sub></p>
+      <br/>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h3>🎓</h3>
       <b>Breaking It Down</b>
       <p><sub>Turning complex ideas into simple ones, whether for a teammate, a team I'm leading, or a student.</sub></p>
+      <br/>
     </td>
   </tr>
 </table>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>

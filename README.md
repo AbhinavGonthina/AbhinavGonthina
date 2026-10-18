@@ -17,7 +17,15 @@
 
 <br/>
 
-> I care about building systems that balance **innovation** with **resilience**. I like getting something real out early, but then will circle back to it until I'm genuinely proud of how it works and its fault tolerance.
+<table align="center">
+  <tr>
+    <td align="center">
+      <br/>
+      I care about building systems that balance <b>innovation</b> with <b>resilience</b>. I like getting something real out early, but then will circle back to it until I'm genuinely proud of how it works and its fault tolerance.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -56,7 +64,7 @@
 <h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/h-made-dark.svg" />
-    <img src="assets/h-made-light.svg" height="40" alt="Things I've Made" />
+    <img src="assets/h-made-light.svg" height="40" alt="Projects I've Worked On" />
   </picture>
 </h2>
 
@@ -77,15 +85,15 @@
   </tr>
   <tr>
     <td width="50%" valign="middle" align="center">
-      <h3>🗺️ RoadQuest</h3>
-      <sub><code>React</code> <code>HackBeanpot</code></sub>
-      <p>A hackathon build that generates real-time quests, with auth and live leaderboards.</p>
+      <h3>✈️ Quak Travel</h3>
+      <sub><code>React Native</code> <code>Express</code> <code>Stripe</code> <code>Redis</code></sub>
+      <p>A group travel app where I built <b>hotel booking with split payments</b>, itinerary and expense views, and a caching layer to speed up search.</p>
       <br/>
     </td>
     <td width="50%" valign="middle" align="center">
       <h3>🏁 FinishLine</h3>
       <sub><code>React</code> <code>Express</code> <code>Prisma</code></sub>
-      <p>NER's ticket and compliance system, which I extended with notifications and a PDF rules parser.</p>
+      <p>NER's project management system, which I extended with a <b>parts review</b> flow, <b>rules PDF parsing</b>, and <b>Gantt chart</b> features.</p>
       <br/>
     </td>
   </tr>
@@ -110,7 +118,7 @@
     </td>
     <td width="33%" valign="middle" align="center">
       <h3>✨</h3>
-      <b>Features People Thank You For</b>
+      <b>Features People Love</b>
       <p><sub>The intricate, detail-heavy work that makes someone's day noticeably easier.</sub></p>
       <br/>
     </td>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
   <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0b0f1a"/>
@@ -19,7 +19,7 @@
     <circle cx="1" cy="1" r="1" fill="#ffffff" opacity="0.07"/>
   </pattern>
   <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="60"/></filter>
-<clipPath id="card"><rect width="1200" height="380" rx="22"/></clipPath></defs>
+<clipPath id="card"><rect width="1200" height="260" rx="22"/></clipPath></defs>
   <style>@font-face{font-family:'SG700';font-weight:700;src:url(data:font/woff2;base64,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) format('woff2');}@font-face{font-family:'SG500';font-weight:500;src:url(data:font/woff2;base64,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) format('woff2');}
   .edge{stroke:#4fd1c5;stroke-opacity:.14;stroke-width:1.2}
   .node{fill:#0b0f1a;stroke:#4fd1c5;stroke-opacity:.45;stroke-width:1.5}
@@ -31,47 +31,47 @@
   .d2{animation-delay:.35s}
   @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
   </style>
-  <rect width="1200" height="380" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="22" fill="url(#dots)"/>
-  <g clip-path="url(#card)"><circle cx="300" cy="80" r="160" fill="#7c5cff" opacity=".22" filter="url(#blur)"/>
-  <circle cx="950" cy="320" r="170" fill="#4fd1c5" opacity=".16" filter="url(#blur)"/></g>
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="22" fill="url(#dots)"/>
+  <g clip-path="url(#card)"><circle cx="300" cy="50" r="130" fill="#7c5cff" opacity=".22" filter="url(#blur)"/>
+  <circle cx="950" cy="220" r="140" fill="#4fd1c5" opacity=".16" filter="url(#blur)"/></g>
   <g>
-    <line x1="90" y1="70" x2="230" y2="210" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="0.0s" repeatCount="indefinite" path="M90,70 L230,210"/></circle>
-    <line x1="230" y1="210" x2="380" y2="95" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="0.6s" repeatCount="indefinite" path="M230,210 L380,95"/></circle>
-    <line x1="230" y1="210" x2="180" y2="300" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="5s" begin="1.2s" repeatCount="indefinite" path="M230,210 L180,300"/></circle>
-    <line x1="90" y1="70" x2="60" y2="250" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="6s" begin="1.7999999999999998s" repeatCount="indefinite" path="M90,70 L60,250"/></circle>
-    <line x1="60" y1="250" x2="180" y2="300" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="2.4s" repeatCount="indefinite" path="M60,250 L180,300"/></circle>
-    <line x1="1020" y1="80" x2="1140" y2="230" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="3.0s" repeatCount="indefinite" path="M1020,80 L1140,230"/></circle>
-    <line x1="1140" y1="230" x2="1010" y2="335" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="5s" begin="3.5999999999999996s" repeatCount="indefinite" path="M1140,230 L1010,335"/></circle>
-    <line x1="1140" y1="230" x2="1150" y2="340" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="6s" begin="4.2s" repeatCount="indefinite" path="M1140,230 L1150,340"/></circle>
-    <line x1="1010" y1="335" x2="1150" y2="340" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="4.8s" repeatCount="indefinite" path="M1010,335 L1150,340"/></circle>
-    <line x1="1020" y1="80" x2="760" y2="50" class="edge"/>
-    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="5.3999999999999995s" repeatCount="indefinite" path="M1020,80 L760,50"/></circle>
-    <circle cx="90" cy="70" r="4.5" class="node"/>
-    <circle cx="230" cy="210" r="4.5" class="node"/>
-    <circle cx="380" cy="95" r="4.5" class="node"/>
-    <circle cx="180" cy="300" r="4.5" class="node"/>
-    <circle cx="1020" cy="80" r="4.5" class="node"/>
-    <circle cx="1140" cy="230" r="4.5" class="node"/>
-    <circle cx="1010" cy="335" r="4.5" class="node"/>
-    <circle cx="1150" cy="340" r="4.5" class="node"/>
-    <circle cx="60" cy="250" r="4.5" class="node"/>
-    <circle cx="760" cy="50" r="4.5" class="node"/>
+    <line x1="90" y1="50" x2="230" y2="145" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="0.0s" repeatCount="indefinite" path="M90,50 L230,145"/></circle>
+    <line x1="230" y1="145" x2="380" y2="65" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="0.6s" repeatCount="indefinite" path="M230,145 L380,65"/></circle>
+    <line x1="230" y1="145" x2="180" y2="210" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="5s" begin="1.2s" repeatCount="indefinite" path="M230,145 L180,210"/></circle>
+    <line x1="90" y1="50" x2="60" y2="175" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="6s" begin="1.7999999999999998s" repeatCount="indefinite" path="M90,50 L60,175"/></circle>
+    <line x1="60" y1="175" x2="180" y2="210" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="2.4s" repeatCount="indefinite" path="M60,175 L180,210"/></circle>
+    <line x1="1020" y1="55" x2="1140" y2="160" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="3.0s" repeatCount="indefinite" path="M1020,55 L1140,160"/></circle>
+    <line x1="1140" y1="160" x2="1010" y2="230" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="5s" begin="3.5999999999999996s" repeatCount="indefinite" path="M1140,160 L1010,230"/></circle>
+    <line x1="1140" y1="160" x2="1150" y2="235" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="6s" begin="4.2s" repeatCount="indefinite" path="M1140,160 L1150,235"/></circle>
+    <line x1="1010" y1="230" x2="1150" y2="235" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="3s" begin="4.8s" repeatCount="indefinite" path="M1010,230 L1150,235"/></circle>
+    <line x1="1020" y1="55" x2="760" y2="35" class="edge"/>
+    <circle r="2.6" class="pulse"><animateMotion dur="4s" begin="5.3999999999999995s" repeatCount="indefinite" path="M1020,55 L760,35"/></circle>
+    <circle cx="90" cy="50" r="4.5" class="node"/>
+    <circle cx="230" cy="145" r="4.5" class="node"/>
+    <circle cx="380" cy="65" r="4.5" class="node"/>
+    <circle cx="180" cy="210" r="4.5" class="node"/>
+    <circle cx="1020" cy="55" r="4.5" class="node"/>
+    <circle cx="1140" cy="160" r="4.5" class="node"/>
+    <circle cx="1010" cy="230" r="4.5" class="node"/>
+    <circle cx="1150" cy="235" r="4.5" class="node"/>
+    <circle cx="60" cy="175" r="4.5" class="node"/>
+    <circle cx="760" cy="35" r="4.5" class="node"/>
   </g>
-  <g class="rise"><text x="600" y="196" text-anchor="middle" class="name">Abhinav Gonthina</text></g>
-  <rect x="420" y="228" width="360" height="3" rx="1.5" fill="url(#accent)"/>
-  <rect x="420" y="227" width="90" height="5" rx="2.5" fill="url(#sheen)" opacity=".8">
+  <g class="rise"><text x="600" y="135" text-anchor="middle" class="name">Abhinav Gonthina</text></g>
+  <rect x="420" y="160" width="360" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="420" y="159" width="90" height="5" rx="2.5" fill="url(#sheen)" opacity=".8">
     <animate attributeName="x" values="420;690" dur="3.2s" repeatCount="indefinite"/>
   </rect>
-  <g class="rise d2"><text x="600" y="280" text-anchor="middle" class="tag">NORTHEASTERN CS  ·  4.0 GPA  ·  HONORS</text></g>
-  <rect x="1" y="1" width="1198" height="378" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+  <g class="rise d2"><text x="600" y="205" text-anchor="middle" class="tag">NORTHEASTERN CS  ·  4.0 GPA  ·  HONORS</text></g>
+  <rect x="1" y="1" width="1198" height="258" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
 </svg>
